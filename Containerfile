@@ -1,4 +1,4 @@
-FROM python:3.10-slim
+FROM registry.access.redhat.com/ubi8/python-311
 
 WORKDIR /app
 
